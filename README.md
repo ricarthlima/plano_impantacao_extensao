@@ -15,3 +15,4 @@
   (Referências: http://dti.ifc.edu.br/sig/manuais/sigaa-sistema-integrado-de-gestao-de-atividades-academicas/)
 ### Gestão de Extensão
 O módulo de extensão do SIGAA tem como objetivo gerenciar as ações de extensão existentes na instituição. Essas ações são divididas em: Curso, evento, programa, projeto e produto.
+(Referências: https://docs.info.ufrn.br/doku.php?id=suporte:manuais:sigaa:extensao:lista)
