@@ -11,7 +11,7 @@
 
 ## Descrição do Sistema e Módulo
 ### SIGAA
-  O SIGAA informatiza os procedimentos da área acadêmica. Para isso conta com 40 módulos, como: Graduação, Pós-graduação, ensino técnico, ensino médio e infantil, extenção, pesquisa, entre outros.
+  O SIGAA informatiza os procedimentos da área acadêmica. Para isso conta com 40 módulos, como: Graduação, Pós-graduação, ensino técnico, ensino médio e infantil, extenção, pesquisa, entre outros.  
 (Referências: http://dti.ifc.edu.br/sig/manuais/sigaa-sistema-integrado-de-gestao-de-atividades-academicas/)
 ### Gestão de Extensão
 O módulo de extensão do SIGAA tem como objetivo gerenciar as ações de extensão existentes na instituição. Essas ações são divididas em: Curso, evento, programa, projeto e produto.
