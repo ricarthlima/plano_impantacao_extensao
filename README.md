@@ -13,4 +13,4 @@
 ### SIGAA
   O SIGAA informatiza os procedimentos da área acadêmica. Para isso conta com 40 módulos, como: Graduação, Pós-graduação, ensino técnico, ensino médio e infantil, extenção, pesquisa, entre outros.
 ### Gestão de Extensão
-
+O módulo de extensão do SIGAA tem como objetivo gerenciar as ações de extensão existentes na instituição. Essas ações são divididas em: Curso, evento, programa, projeto e produto.
