@@ -1,6 +1,7 @@
 | [Home](https://github.com/ricarthlima/plano_impantacao_extensao) | [Time](https://github.com/ricarthlima/plano_impantacao_extensao#time) | [Artefatos](https://github.com/ricarthlima/plano_impantacao_extensao/blob/master/pages/artefatos.md) | [Ferramentas](https://github.com/ricarthlima/plano_impantacao_extensao/blob/master/pages/ferramentas.md) | [Cronograma](https://github.com/ricarthlima/plano_impantacao_extensao/blob/master/pages/cronograma.md) |
 
 # Plano de Implantação do Módulo de Gestão de Extensão
+Repositório descritivo para projeto da cadeira de IF980 - Sistemas de Gestão Empresarial. Sistemas de Informação. Centro de Informática - UFPE. 
 
 ## Time
 - Adriano Vieira - <ajbvn@cin.ufpe.br>
