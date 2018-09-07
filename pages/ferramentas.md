@@ -4,7 +4,7 @@
 ## Frameworks
 ### Scrum
 
-## Ferramentas
+## Tecnologias
 
 ### Todoist
 
