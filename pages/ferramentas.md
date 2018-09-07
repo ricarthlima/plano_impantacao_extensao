@@ -15,6 +15,15 @@ O mesmo contem integrações com diversas aplicações, além de oferecer backup
 #### Motivação
 O mesmo está sendo usado por nossa equipe devido a organização e, principalmente a produtividade que nos proporciona na execução de nossas tarefas.
 
+
 ### GitHub
+#### Descrição
+Github é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+#### Motivação
+O mesmo está sendo usado por nossa equipe devido a disponibilização da hospedagem dos arquivos referentes ao nosso site, e do próprio site. Além, de contribuir para nossa organização através do controle de versão que o mesmo possui. 
 
 ### Google Drive
+#### Descrição
+Google Drive é um serviço de armazenamento e sincronização de arquivos. O mesmo abriga agora o Google Docs, um leque de aplicações de produtividade, que oferece a edição de documentos, folhas de cálculo, apresentações, e muito mais. O Google Drive baseia-se no conceito de computação em nuvem, pois o internauta poderá armazenar arquivos através deste serviço e acedê-los a partir de qualquer computador ou outros dispositivos compatíveis, desde que ligados à internet. Além disso, o Google Drive disponibiliza vários aplicativos online, sem que esses programas estejam instalados no computador da pessoa que os utiliza.
+#### Motivação
+O mesmo está sendo usado por nossa equipe devido a grande disponibilização de armazenamento de arquivos referentes ao nosso site de forma prática e rápida.
