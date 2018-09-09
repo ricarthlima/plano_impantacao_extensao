@@ -4,8 +4,7 @@
 
 ## Frameworks
 
-![Scrum](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/scrum.png)
-### Scrum
+![Scrum](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/scrum.png) ### Scrum
 #### Descrição
 O Scrum é um framework de trabalho que emprega diversas ferramentas para o desenvolvimento iterativo e incremental utilizado no gerenciamento de projetos diversos e no desenvolvimento de software ágil. Scrum possui seu foco no gerenciamento e projeto da organização onde é difícil planejar à frente, e não é um processo prescribente, ou seja, ele não descreve o que fazer em cada situação. Ele é usado para trabalhos complexos nos quais é impossível predizer tudo o que irá ocorrer. Além disso, apesar de Scrum ter sido destinado para gerenciamento de projetos de software, ele pode ser utilizado em equipes de manutenção de software ou como uma abordagem geral de gerenciamento de projetos/programas.  
 #### Motivação
