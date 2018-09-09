@@ -34,3 +34,10 @@ O mesmo está sendo usado por nossa equipe devido a disponibilização da hosped
 Google Drive é um serviço de armazenamento e sincronização de arquivos. O mesmo abriga agora o Google Docs, um leque de aplicações de produtividade, que oferece a edição de documentos, folhas de cálculo, apresentações, e muito mais. O Google Drive baseia-se no conceito de computação em nuvem, pois o internauta poderá armazenar arquivos através deste serviço e acedê-los a partir de qualquer computador ou outros dispositivos compatíveis, desde que ligados à internet. Além disso, o Google Drive disponibiliza vários aplicativos online, sem que esses programas estejam instalados no computador da pessoa que os utiliza.
 #### Motivação
 O mesmo está sendo usado por nossa equipe devido a grande disponibilização de armazenamento de arquivos referentes ao nosso site de forma prática e rápida.
+
+## Google Hangouts Meet
+
+#### Descrição
+Google Meet é um serviço desenvolvido pela Google, que inclui mensagens, vídeo chat, SMS e VOIP.
+#### Motivação
+O mesmo está sendo usado por nossa equipe devido a facilidade e rapidez que o mesmo nos proporciona em reuniões remotas da nossa equipe.
