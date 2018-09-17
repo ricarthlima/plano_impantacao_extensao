@@ -15,3 +15,14 @@ Nosso objetivo no que tange as 3 cadeiras irmãs (SGE, PGP e GPN) será a entreg
 ### Gestão de Extensão
 O módulo de extensão do SIGAA tem como objetivo gerenciar as ações de extensão existentes na instituição. Essas ações são divididas em: Curso, evento, programa, projeto e produto.  
 (Referências: https://docs.info.ufrn.br/doku.php?id=suporte:manuais:sigaa:extensao:lista)
+
+## Links Úteis
+- [Documentação pública do módulo pela UFRN](https://docs.info.ufrn.br/doku.php?id=suporte:manu…)
+- [Pro-Reitoria de Extensão e Cultura UFPE](https://www.ufpe.br/proexc)
+- [Como aprender a aprender +MindMaps](https://www.youtube.com/watch?v=PHnBUw1bUCU)
+- [StackEdit - Markdown](https://stackedit.io/app#)
+
+- Link do AS IS
+- Contatos
+- Link do oráculo da UFRN.
+- Link do cronograma de implantação do SIGAA na UFPE
