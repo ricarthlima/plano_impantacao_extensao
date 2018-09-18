@@ -5,7 +5,7 @@ Nosso objetivo no que tange as 3 cadeiras irmãs (SGE, PGP e GPN) será a entreg
 
 ## Time
 |![Adriano](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/ajbvn.png) <br>Adriano Vieira<br>ajbvn@cin.ufpe.br|![Gabriel](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/gsf4.png) <br>Gabriel Fontanari<br><gsf4@cin.ufpe.br>| ![Guilherme](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/gps2.png) <br>Guilherme Prado<br><gps2@cin.ufpe.br>|![Ricarth](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/rrsl.png) <br>Ricarth Lima<br><rrsl@cin.ufpe.br>|![Warley](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/wss.png) <br>Warley Souza<br><wss@cin.ufpe.br>
-|-|-|-|-|-|
+
 
 ## Descrição do Sistema e Módulo
 ### SIGAA
