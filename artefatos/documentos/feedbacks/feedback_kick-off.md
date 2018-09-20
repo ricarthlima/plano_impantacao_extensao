@@ -11,7 +11,7 @@ Documentação do feedback recebido na nossa primeira apresentação, o Kick-off
 ### Pontos negativos
 - Faltou algumas definições importantes, por exemplo:
   - O que é um **projeto de extensão**? (Isso é difícil até para muitos professores)
-  - O que extensão para o **SigProj**? O que é extensão em geral?
+  - O que é extensão para o **SigProj**? O que é extensão em geral?
   - Quais categorias de extensão estão no SigProj?
 
 ### Sugestões
