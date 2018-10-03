@@ -20,13 +20,13 @@
 
 ## Até o 2º Status Report
 - 04/10: Segunda entrevista com professora/orientadora proponente
-- 16/10: Modelagem do AS-IS do SIGAA
+- 16/10: [DEADLINE] Modelagem do AS-IS do SIGAA
 - 23/10: Validação do AS-IS do SIGAA
 - **30/10: 2º Status Report**
 
 ## Até a Apresentação Final
-- 13/11: Validação do TO-BE
+- 13/11: [DEADLINE] Modelagem do TO-BE
 - 15/11: Validação do TO-BE
-- 20/11: Elaboração de Documentação Final (PdI)
-- 30/11: Validação da Documentação
+- 20/11: [DEADLINE] Elaboração de Documentação Final (PdI)
+- 30/11: [DEADLINE] Validação da Documentação
 - **04/12: Apresentação final**
