@@ -21,8 +21,5 @@ O módulo de extensão do SIGAA tem como objetivo gerenciar as ações de extens
 - [Pro-Reitoria de Extensão e Cultura UFPE](https://www.ufpe.br/proexc)
 - [Como aprender a aprender +MindMaps](https://www.youtube.com/watch?v=PHnBUw1bUCU)
 - [StackEdit - Markdown](https://stackedit.io/app#)
-
-- Link do AS IS
-- Contatos
 - Link do oráculo da UFRN.
 - Link do cronograma de implantação do SIGAA na UFPE
