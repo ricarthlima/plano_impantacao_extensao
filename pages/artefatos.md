@@ -18,7 +18,8 @@
 - TO-BE do processo de submissão de propostas
 
 #### Diários de Atividades e Backlogs
-- Os backlogs estão disponíveis [aqui.](http://www.equipeone.com.br/extensao/backlog)
+- Os backlogs estão disponíveis [aqui.](http://www.equipeone.com.br/extensao/backlog)  
+##### Diários de atividades
 - [17/08/2018 - 21/08/2018](https://docs.google.com/document/d/1p6EftRpvFybZagl0a_yejEfk1oa-4S-rt-3Qy5P7dhI/edit?usp=sharing)
 - [21/09/2018 - 04/10/2018](https://docs.google.com/document/d/1xOkeoaQqWZrJne1VzxdVa9CtUmiXxb32jPKdqH0VHvY/edit?usp=sharing)
 
