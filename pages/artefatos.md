@@ -4,13 +4,28 @@
 
 ## Apresentações
 - [Kick-Off](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)
-- [1º Status Report]()
-- [2º Status Report]()
-- [Apresentação Final]()
+- 1º Status Report
+- 2º Status Report
+- Apresentação Final
 
 ## Documentos
 
 ### Entregas
+
+#### Modelagens BPMN
+- [AS-IS do SIGProj](https://drive.google.com/drive/folders/1ogGXk2yVvqusab61xVpVcqCZjHJkRA3v?usp=sharing) - Como propostas são submetidas atualmente na UFPE.
+- AS-IS do SIGAA
+- TO-BE do processo de submissão de propostas
+
+#### Diários de Atividades
+- [17/08/2018 - 21/08/2018](https://docs.google.com/document/d/1p6EftRpvFybZagl0a_yejEfk1oa-4S-rt-3Qy5P7dhI/edit?usp=sharing)
+- [21/09/2018 - 04/10/2018](https://docs.google.com/document/d/1xOkeoaQqWZrJne1VzxdVa9CtUmiXxb32jPKdqH0VHvY/edit?usp=sharing)
+
+#### Entregas Finais
+- Documento do Plano de Implantação
+- Apresentação do Plano de Implantação
+- Manual do Plano de Implantação 
+
 ### Outros
 
 - [Visão Geral do Módulo de Extensão](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/visao-geral-extensao.pdf)
