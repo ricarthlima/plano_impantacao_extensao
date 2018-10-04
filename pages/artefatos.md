@@ -4,7 +4,7 @@
 
 ## Apresentações
 - [Kick-Off](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)
-- 1º Status Report
+- [1º Status Report](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)
 - 2º Status Report
 - Apresentação Final
 
