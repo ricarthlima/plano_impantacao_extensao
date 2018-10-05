@@ -29,7 +29,7 @@
 - [Plano de Gerenciamento de RH](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/planejamento/%5BEO%5D%20Plano%20de%20Gerenciamento%20de%20Recursos%20Humanos.pdf)
 - [Plano de Gerenciamento de Comunicação](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/planejamento/%5BEO%5D%20Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.pdf)
 
-#### Diários de Atividades e Backlogs
+##### Backlogs
 - Os backlogs estão disponíveis [aqui.](http://www.equipeone.com.br/extensao/backlog)  
 
 ##### Diários de atividades
