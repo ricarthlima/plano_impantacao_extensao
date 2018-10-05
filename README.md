@@ -1,7 +1,15 @@
 | [Home](https://github.com/ricarthlima/plano_impantacao_extensao) | [Time](https://github.com/ricarthlima/plano_impantacao_extensao#time) | [Artefatos](https://github.com/ricarthlima/plano_impantacao_extensao/blob/master/pages/artefatos.md) | [Ferramentas](https://github.com/ricarthlima/plano_impantacao_extensao/blob/master/pages/ferramentas.md) | [Cronograma](https://github.com/ricarthlima/plano_impantacao_extensao/blob/master/pages/cronograma.md) | [Guidelines](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/pages/guidelines.md) |
+|-|-|-|-|-|-|
 
 # Plano de Implantação do Módulo de Gestão de Extensão
-Nosso objetivo no que tange as 3 cadeiras irmãs (SGE, PGP e GPN) será a entrega de um plano de implantação para um módulo do SIGAA, este que é um módulo do SIG's, ferramenta comprada pela UFPE da UFRN, a ser implantada como Sistema de Informação da Universidade. O nosso módulo de implantação será o de Gestão de Extensão, que abrangerá os processos, pessoas e tecnologias principalmente envolvidos nas atividades da PROEXC (Proreitoria de Extensão e Cultura), e será gerido e implantado pelo NTI (Núcleo de Tecnologia da Informação da UFPE). A priori, o foco é integrar um módulo quer irá gerir a curricularização da extensão prevista para acontecer em 2020 (onde todos os graduandos deverão ter pelo menos 10% da sua carga horária em projetos de extensão).
+### Objetivo
+O objetivo é gerar um Plano de Implantação  com foco na submissão de propostas de projetos de extensão, para o Módulo de Extensão do SIGAA na UFPE.
+
+### Justificativa
+Após a compra do sistema de informação SIG's da UFRN, pela UFPE, se faz necessário planos de implantação para seus módulos com a finalidade de adaptar tanto o sistema quanto a realidade para as novas maneiras de executar os processos.
+
+### Submissão de Propostas
+Afunilamos o escopo da abordagem do Plano de Implantação para "Submissão de Propostas", pois o módulo de extensão é muito extenso e seria inviável cobri-lo completamente. A escolha veio de uma pesquisa encomendada pela PROCIT, e executada pelo NTI sobre a PROEXC e entendemos que o processo de maior impacto é justamente esse.
 
 ## Time
 |![Adriano](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/ajbvn.png) <br>Adriano Vieira<br>ajbvn@cin.ufpe.br|![Gabriel](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/gsf4.png) <br>Gabriel Fontanari<br><gsf4@cin.ufpe.br>| ![Guilherme](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/gps2.png) <br>Guilherme Prado<br><gps2@cin.ufpe.br>|![Ricarth](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/rrsl.png) <br>Ricarth Lima<br><rrsl@cin.ufpe.br>|![Warley](https://raw.githubusercontent.com/ricarthlima/plano_implantacao_extensao/master/pages/fotos/wss.png) <br>Warley Souza<br><wss@cin.ufpe.br>
