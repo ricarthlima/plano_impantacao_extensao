@@ -29,18 +29,18 @@
 - [(19/09) - Segunda entrevista com Bruno (SIGAA)](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entrevistas/%5B09_19%5D%20Segundo%20contato%20com%20Bruno.docx)
 - [(20/09) - Segunda entrevista com Marlos (NTI)](https://github.com/ricarthlima/plano_implantacao_extensao/tree/master/artefatos/documentos/entrevistas/%5B09-20%5D-Segunda_Entrevista_Marlos)
 - [(04/10) - Entrevista com Demócrito (PROEXC)](https://github.com/ricarthlima/plano_implantacao_extensao/tree/master/artefatos/documentos/entrevistas/%5B10-04%5D-Entrevista_Dem%C3%B3crito-(Coordenador%20proexc))
-### Artefatos de Planejamento
 
-#### Documentação Formal
+## Artefatos de Planejamento
+### Documentação Formal
 - [Termo de Abertura](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/planejamento/%5BEO%5D%20Termo%20de%20abertura.pdf)
 - [Declaração de Escopo do Projeto](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/planejamento/%5BEO%5D%20Declara%C3%A7%C3%A3o%20de%20Escopo%20do%20Projeto.pdf)
 - [Plano de Gerenciamento de RH](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/planejamento/%5BEO%5D%20Plano%20de%20Gerenciamento%20de%20Recursos%20Humanos.pdf)
 - [Plano de Gerenciamento de Comunicação](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/planejamento/%5BEO%5D%20Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.pdf)
 
-#### Backlogs
+### Backlogs
 - Os backlogs estão disponíveis [aqui.](http://www.equipeone.com.br/extensao/backlog)  
 
-#### Diários de atividades
+### Diários de atividades
 - [17/08/2018 - 21/08/2018](https://docs.google.com/document/d/1p6EftRpvFybZagl0a_yejEfk1oa-4S-rt-3Qy5P7dhI/edit?usp=sharing)
 - [21/09/2018 - 04/10/2018](https://docs.google.com/document/d/1xOkeoaQqWZrJne1VzxdVa9CtUmiXxb32jPKdqH0VHvY/edit?usp=sharing)
 
