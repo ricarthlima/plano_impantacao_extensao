@@ -4,11 +4,10 @@
 # Artefatos
 ##### [Apresentações](#apresentações) - [Modelagens BPMN](#modelagens-bpmn) - [Documentos](#documentos) - [Planejamento](#artefatos-de-planejamento) - [Outros](#outros)
 ## Apresentações
-- [Kick-Off](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)
-- [1º Status Report](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)
-- 2º Status Report
-- Apresentação Final
-
+|Kick-Off|1º Status Report|2º Status Report|Apresentação Final|
+|:------:|:--------------:|:--------------:|:----------------:|
+|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)| [SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)|SGE|SGE|
+|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-Apresenta%C3%A7%C3%A3o%20do%20Kick-off.pdf)|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-1%C2%BA%20Status%20Report.pdf)|PGP|PGP|
 ## Modelagens BPMN
 - [AS-IS do SIGProj](https://drive.google.com/drive/folders/1ogGXk2yVvqusab61xVpVcqCZjHJkRA3v?usp=sharing) - Como propostas são submetidas atualmente na UFPE.
 - AS-IS do SIGAA
