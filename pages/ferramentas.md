@@ -36,9 +36,10 @@ Google Drive é um serviço de armazenamento e sincronização de arquivos. O me
 O mesmo está sendo usado por nossa equipe devido a grande disponibilização de armazenamento de arquivos referentes ao nosso site de forma prática e rápida.
 
 
-|![Discord](https://raw.githubusercontent.com/ricarthlima/eo-project-es/master/pages/images/discord.png)|**Discord App**|
+|![Discord](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/pages/fotos/discord.png)|**Discord App**|
 |-|-|
 #### Descrição
 Discord é um aplicativo de voz sobre IP, proprietário e gratuito, projetado para comunidades de jogos.
 #### Motivação
+**Substituiu o Google Meet**
 O mesmo está sendo usado por nossa equipe devido a facilidade e rapidez que o mesmo nos proporciona em reuniões remotas da nossa equipe, através dos recursos fundamentais de texto baseados em bate-papo, suporte a chamadas de vídeo e compartilhamento de tela.
