@@ -17,7 +17,7 @@ Afunilamos o escopo da abordagem do Plano de Implantação para "Submissão de P
 
 ## Descrição do Sistema e Módulo
 ### SIGAA
-  O SIGAA informatiza os procedimentos da área acadêmica. Para isso conta com 40 módulos, como: Graduação, Pós-graduação, ensino técnico, ensino médio e infantil, extenção, pesquisa, entre outros.  
+  O SIGAA informatiza os procedimentos da área acadêmica. Para isso conta com 40 módulos, como: Graduação, Pós-graduação, ensino técnico, ensino médio e infantil, extensão, pesquisa, entre outros.  
 (Referências: http://dti.ifc.edu.br/sig/manuais/sigaa-sistema-integrado-de-gestao-de-atividades-academicas/)
 
 ### Gestão de Extensão
