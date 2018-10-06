@@ -2,7 +2,7 @@
 |-|-|-|-|-|-|
 
 # Artefatos
-##### [Apresentações](#apresentações) - [Modelagens BPMN](#modelagens-bpmn) - [Documentos de Entrega](#documentos) - [Planejamento](#artefatos-de-planejamento) - [Outros](#outros)
+##### [Apresentações](#apresentações) - [Modelagens BPMN](#modelagens-bpmn) - [Documentos](#documentos) - [Planejamento](#artefatos-de-planejamento) - [Outros](#outros)
 ## Apresentações
 - [Kick-Off](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)
 - [1º Status Report](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)
