@@ -42,5 +42,5 @@ O mesmo está sendo usado por nossa equipe devido a grande disponibilização de
 #### Descrição
 Discord é um aplicativo de voz sobre IP, proprietário e gratuito, projetado para comunidades de jogos.
 #### Motivação
-**Substituiu o Google Meet**
+**Substituiu o Google Meet.**
 O mesmo está sendo usado por nossa equipe devido a facilidade e rapidez que o mesmo nos proporciona em reuniões remotas da nossa equipe, através dos recursos fundamentais de texto baseados em bate-papo, suporte a chamadas de vídeo e compartilhamento de tela.
