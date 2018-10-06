@@ -44,3 +44,11 @@ Discord é um aplicativo de voz sobre IP, proprietário e gratuito, projetado pa
 #### Motivação
 **Substituiu o Google Meet.**
 O mesmo está sendo usado por nossa equipe devido a facilidade e rapidez que o mesmo nos proporciona em reuniões remotas da nossa equipe, através dos recursos fundamentais de texto baseados em bate-papo, suporte a chamadas de vídeo e compartilhamento de tela.
+
+
+|![Bizagi](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/pages/fotos/bizagi.png)|**Bizagi Modeler**|
+|-|-|
+#### Descrição
+Bizagi Modeler é um software gratuito de notação e modelagem de processos de negócio (BPMN), com ferramentas totalmente baseadas em notação BPMN capazes de oferecer simplicidade na hora de modelar processos.
+#### Motivação
+O mesmo está sendo usado por nossa equipe devido a simplicidade e forma completa pela qual o mesmo disponibiliza os recursos para nós modelarmos os processos de negócios envolvidos na extensão da UFPE e principalmente na parte de submissão de propostas.
