@@ -6,17 +6,17 @@
 ## Apresentações
 |Kick-Off|1º Status Report|2º Status Report|Apresentação Final|
 |:------:|:--------------:|:--------------:|:----------------:|
-|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)| [SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)|SGE|SGE|
+|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)| [SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B03%5D%202%C2%BA%20Status%20report.pdf)|SGE|
 |[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-Apresenta%C3%A7%C3%A3o%20do%20Kick-off.pdf)|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-1%C2%BA%20Status%20Report.pdf)|PGP|PGP|
 ## Modelagens BPMN
 - [AS-IS do SIGProj](https://drive.google.com/drive/folders/1ogGXk2yVvqusab61xVpVcqCZjHJkRA3v?usp=sharing) - Como propostas são submetidas atualmente na UFPE.
-- AS-IS do SIGAA
+- [AS-IS do SIGAA](https://drive.google.com/drive/folders/1Ey7f4voDveOqnAMAzoobxxfiOuUt5982?usp=sharing)
 - TO-BE do processo de submissão de propostas
 
 ## Documentos
 
 ### Entregas Finais
-- Documento do Plano de Implantação
+- [Documento do Plano de Implantação v0.1](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entregas_finais/plano_de_implantacao_extensao_v0.1.pdf)
 - Apresentação do Plano de Implantação
 - Manual do Plano de Implantação 
 
@@ -28,6 +28,8 @@
 - [(19/09) - Segunda entrevista com Bruno (SIGAA)](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entrevistas/%5B09_19%5D%20Segundo%20contato%20com%20Bruno.docx)
 - [(20/09) - Segunda entrevista com Marlos (NTI)](https://github.com/ricarthlima/plano_implantacao_extensao/tree/master/artefatos/documentos/entrevistas/%5B09-20%5D-Segunda_Entrevista_Marlos)
 - [(04/10) - Entrevista com Demócrito (PROEXC)](https://github.com/ricarthlima/plano_implantacao_extensao/tree/master/artefatos/documentos/entrevistas/%5B10-04%5D-Entrevista_Dem%C3%B3crito-(Coordenador%20proexc))
+- [(11/10) - Acompanhamento com Gleibson](https://github.com/ricarthlima/plano_implantacao_extensao/tree/master/artefatos/documentos/entrevistas/%5B10-11%5D-Acompanhamento_Gleibson)
+- [(23/10) - Entrevista com Marlos](https://github.com/ricarthlima/plano_implantacao_extensao/tree/master/artefatos/documentos/entrevistas/%5B10-23%5D-Feedback_Marlos)
 
 ## Artefatos de Planejamento
 ### Documentação Formal
