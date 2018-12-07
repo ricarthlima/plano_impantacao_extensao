@@ -11,12 +11,13 @@
 ## Modelagens BPMN
 - [AS-IS do SIGProj](https://drive.google.com/drive/folders/1ogGXk2yVvqusab61xVpVcqCZjHJkRA3v?usp=sharing) - Como propostas são submetidas atualmente na UFPE.
 - [AS-IS do SIGAA](https://drive.google.com/drive/folders/1Ey7f4voDveOqnAMAzoobxxfiOuUt5982?usp=sharing)
-- TO-BE do processo de submissão de propostas
+- [TO-BE do processo de submissão de propostas](https://drive.google.com/drive/folders/1l8zLRfIqaKlvE3KhbwFNQ9L5AdcbYkZc?usp=sharing)
 
 ## Documentos
 
 ### Entregas Finais
 - [Documento do Plano de Implantação v0.1](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entregas_finais/plano_de_implantacao_extensao_v0.1.pdf)
+- [Documento do Plano de Implantação v0.2](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entregas_finais/plano_de_implantacao_v0.2.pdf)
 - Apresentação do Plano de Implantação
 - Manual do Plano de Implantação 
 
