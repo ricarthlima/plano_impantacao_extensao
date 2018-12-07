@@ -2,6 +2,8 @@
 |-|-|-|-|-|-|
 
 # Plano de Implantação do Módulo de Gestão de Extensão
+**O Plano de Implantação pode ser encontrado na página [Artefatos](/artefatos/)**
+
 ### Objetivo
 O objetivo é gerar um Plano de Implantação  com foco na submissão de propostas de projetos de extensão, para o Módulo de Extensão do SIGAA na UFPE.
 
