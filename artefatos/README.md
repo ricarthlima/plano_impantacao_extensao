@@ -16,10 +16,9 @@
 ## Documentos
 
 ### Entregas Finais
+- **[Plano de Implantação - Final](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entregas_finais/plano_de_implanta%C3%A7%C3%A3o_v1.0.pdf)**
 - [Documento do Plano de Implantação v0.1](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entregas_finais/plano_de_implantacao_extensao_v0.1.pdf)
 - [Documento do Plano de Implantação v0.2](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/documentos/entregas_finais/plano_de_implantacao_v0.2.pdf)
-- Apresentação do Plano de Implantação
-- Manual do Plano de Implantação 
 
 ### Entrevistas Documentadas
 - [(28/08) - Entrevista com Marlos (NTI)](https://github.com/ricarthlima/plano_implantacao_extensao/tree/master/artefatos/documentos/entrevistas/%5B08-28%5D-Entrevista_Marlos)
