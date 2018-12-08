@@ -6,8 +6,8 @@
 ## Apresentações
 |Kick-Off|1º Status Report|2º Status Report|Apresentação Final|
 |:------:|:--------------:|:--------------:|:----------------:|
-|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)| [SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B03%5D%202%C2%BA%20Status%20report.pdf)|SGE|
-|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-Apresenta%C3%A7%C3%A3o%20do%20Kick-off.pdf)|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-1%C2%BA%20Status%20Report.pdf)|PGP|PGP|
+|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B01%5D%20Kick-Off.pdf)| [SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B02%5D%201%C2%BA%20Status%20report.pdf)|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5B03%5D%202%C2%BA%20Status%20report.pdf)|[SGE](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/apresentacao_final.pdf)|
+|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-Apresenta%C3%A7%C3%A3o%20do%20Kick-off.pdf)|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/%5BPGP%5D-1%C2%BA%20Status%20Report.pdf)|PGP|[PGP](https://github.com/ricarthlima/plano_implantacao_extensao/blob/master/artefatos/apresenta%C3%A7%C3%B5es/apresentacao_final.pdf)|
 ## Modelagens BPMN
 - [AS-IS do SIGProj](https://drive.google.com/drive/folders/1ogGXk2yVvqusab61xVpVcqCZjHJkRA3v?usp=sharing) - Como propostas são submetidas atualmente na UFPE.
 - [AS-IS do SIGAA](https://drive.google.com/drive/folders/1Ey7f4voDveOqnAMAzoobxxfiOuUt5982?usp=sharing)
@@ -44,6 +44,7 @@
 ### Diários de atividades
 - [17/08/2018 - 21/08/2018](https://docs.google.com/document/d/1p6EftRpvFybZagl0a_yejEfk1oa-4S-rt-3Qy5P7dhI/edit?usp=sharing)
 - [21/09/2018 - 04/10/2018](https://docs.google.com/document/d/1xOkeoaQqWZrJne1VzxdVa9CtUmiXxb32jPKdqH0VHvY/edit?usp=sharing)
+- [05/10/2018 - 07/12/2018](https://docs.google.com/document/d/1ZP6ZTkIMpOn3IkuxcbO_2sfUwSgBVapC4Lo4Qi45BOc/edit?usp=sharing)
 
 
 ## Outros
